@@ -1,0 +1,27 @@
+.nbc_help{
+    cursor: help;
+    padding: 0px 3px;
+    margin-left: 6px;
+    background: #a1a1a1;
+    color: white;
+    font-size: 10px;
+    font-family: Courier;
+    font-weight: bold;
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+}
+.nbc_help:hover{background: #333333;}
+
+
+.progress-label {
+    position: absolute;
+    text-align: center;
+    width: 100%;
+    top: 9px;
+    text-shadow: 1px 1px 0 #fff;
+}
+
+.ui-progressbar {
+    position: relative;
+}
